@@ -14,7 +14,7 @@ A subset of outcomes in which we are interested.
 1. $\mathscr{A}\subseteq2^{\Omega}$
 2. $\Omega\in \mathscr{A}$
 3. $A\in \mathscr{A} \implies A^C \in \mathscr{A}$
-4. $\{A_n\}_ 1^{\infty}\subseteq \mathscr{A} \implies \bigcup^{\infty}_1\in \mathscr{A}$
+4. $\{A_n\}_ 1^{\infty}\subseteq \mathscr{A} \implies \bigcup^{\infty}_ 1A_n\in \mathscr{A}$
 ## Examples
 1. $\{\phi,\Omega\}$
 2. $2^{\Omega}$
